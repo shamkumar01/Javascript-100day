@@ -21,3 +21,4 @@ let age = 21
 
 console.log(typeof null);  // its type is object and it is an interview question 
 // lkasdfhaskjhdfk im
+// asfdsafsdfasdf
