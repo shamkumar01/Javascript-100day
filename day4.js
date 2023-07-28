@@ -10,6 +10,8 @@ let str2 = "sham"
 
 let str3 = str1+str2
 
+//day off
+28
 // console.log(str3);
 
 
